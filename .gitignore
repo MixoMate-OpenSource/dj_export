@@ -1,0 +1,4 @@
+**/dist
+**/dj_export.egg*
+**/build
+**venv
